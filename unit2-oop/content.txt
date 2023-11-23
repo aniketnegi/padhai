@@ -1,0 +1,10 @@
+Unit 2: Object-Oriented Programming in Python (7 lectures)
+==========================================================
+
+Object-Oriented Programming (OOP) Fundamentals
+Classes and Objects
+Inheritance and Polymorphism
+Advanced OOP Concepts (e.g., Encapsulation, Abstraction),
+Generators and Iterators
+Functional Programming Techniques (e.g. Lambda Functions, Map, Filter)
+Modules and Packages
