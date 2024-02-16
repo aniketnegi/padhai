@@ -23,10 +23,10 @@
 
 ## UNIT 2 ->  Object-Oriented Programming in Python
 
-- Object-Oriented Programming (OOP) Fundamentals
-- Classes and Objects
-- Inheritance and Polymorphism
-- Advanced OOP Concepts (e.g. Encapsulation; Abstraction)
-- Generators and Iterators
-- Functional Programming Techniques (e.g. Lambda Functions; Map; Filter)
-- Modules and Packages
+x Object-Oriented Programming (OOP) Fundamentals
+x Classes and Objects
+x Inheritance and Polymorphism
+x Advanced OOP Concepts (e.g. Encapsulation; Abstraction)
+x Generators and Iterators
+x Functional Programming Techniques (e.g. Lambda Functions; Map; Filter)
+? Modules and Packages
